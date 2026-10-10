@@ -1,0 +1,8 @@
+{
+  "name": "Manoranjan Movies Zone 🎥",
+  "description": "Manoranjan Movie Downloader - Movies Zone, Help Portal, and Download Manager",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
